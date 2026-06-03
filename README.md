@@ -94,21 +94,7 @@ Visualizes humidity changes over time.
 
 ## Project Screenshots
 
-### System Architecture
-
-<img src="images/architecture.png" width="900">
-
-### AWS EC2 Deployment
-
-<img src="images/aws-ec2.png" width="900">
-
-### Node-RED Flow
-
-<img src="images/node-red-flow.png" width="900">
-
-### Dashboard
-
-<img src="images/dashboard.png" width="900">
+Uploaded in "Images" Foalder
 
 ## Setup Instructions
 
